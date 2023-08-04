@@ -1,0 +1,35 @@
+{
+    "count": 4,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "733f5036-e56b-4335-8821-029a543934f3",
+            "collectionId": "Korean",
+            "type": "Fable",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Korean/Korean_Fable/733f5036-e56b-4335-8821-029a543934f3/733f5036-e56b-4335-8821-029a543934f3_ko_Female.mp4"
+        },
+        {
+            "id": "3e68e49a-ca43-43aa-aca9-4303b3f14aca",
+            "collectionId": "Korean",
+            "type": "Fable",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Korean/Korean_Fable/3e68e49a-ca43-43aa-aca9-4303b3f14aca/3e68e49a-ca43-43aa-aca9-4303b3f14aca_ko_Female.mp4"
+        },
+        {
+            "id": "55740f21-5673-4c8d-8700-c48c452203c6",
+            "collectionId": "Korean",
+            "type": "Fable",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Korean/Korean_Fable/55740f21-5673-4c8d-8700-c48c452203c6/55740f21-5673-4c8d-8700-c48c452203c6_ko_Female.mp4"
+        },
+        {
+            "id": "d52b752b-2f0c-48b1-928b-45f27167867a",
+            "collectionId": "Korean",
+            "type": "Fable",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Korean/Korean_Fable/d52b752b-2f0c-48b1-928b-45f27167867a/d52b752b-2f0c-48b1-928b-45f27167867a_ko_Female.mp4"
+        }
+    ]
+}
